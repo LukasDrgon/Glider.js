@@ -10,12 +10,16 @@ Include glider.min.css:
 
 ```html
 <link href="glider.min.css" rel="stylesheet" type="text/css">
+or
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/glider-js@1/glider.min.css">
 ```
 
 Include Glider.js:
 
 ```html
 <script src="glider.min.js"></script>
+or
+<script src="https://cdn.jsdelivr.net/npm/glider-js@1/glider.min.js"></script>
 ```
 
 Example HTML:
